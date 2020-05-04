@@ -28,9 +28,9 @@ To get started with our code:
 Note that this code requires Python 3.6+.
 
 #### Obtaining Data:
-* ANAFCC (training and validation): [https://doi.org/10.5281/zenodo.3666782]()
-* BirdVox-DCASE-20k (noise for data augmentation): [https://archive.org/details/BirdVox-DCASE-20k]()
-* BirdVox-14SD (testing): [https://doi.org/10.5281/zenodo.3667094]()
+* ANAFCC (training and validation): [https://doi.org/10.5281/zenodo.3666782](https://doi.org/10.5281/zenodo.3666782)
+* BirdVox-DCASE-20k (noise for data augmentation): [https://archive.org/details/BirdVox-DCASE-20k](https://archive.org/details/BirdVox-DCASE-20k)
+* BirdVox-14SD (testing): [https://doi.org/10.5281/zenodo.3667094](https://doi.org/10.5281/zenodo.3667094)
 
 #### Running Code
 Relevant scripts have filenames starting with a number, indicating the order in which to run them. After editing `localmodule.py` to reflect your workspace, scripts can simply be run via `python <script_path>`.
