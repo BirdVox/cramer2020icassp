@@ -12,7 +12,7 @@ You can watch our ICASSP 2020 presentation [here](https://youtu.be/A16ObKJ6lLY),
 Class imbalance in the training data hinders the generalization ability of machine listening systems.
 In the context of bioacoustics, this issue may be circumvented by aggregating species labels into super-groups of higher taxonomic rank: genus, family, order, and so forth.
 However, different applications of machine listening to wildlife monitoring may require different levels of granularity.
-This paper introduces \modelname, a deep neural network for structured classification of signals from living organisms.
+This paper introduces TaxoNet, a deep neural network for structured classification of signals from living organisms.
 TaxoNet is trained as a multitask and multilabel model, following a new architectural principle in end-to-end learning named hierarchical composition: shallow layers extract a shared representation to predict a root taxon, while deeper layers specialize recursively to lower-rank taxa.
 In this way, TaxoNet is capable of handling taxonomic uncertainty, out-of-vocabulary labels, and open-set deployment settings.
 An experimental benchmark on two new bioacoustic datasets (ANAFCC and BirdVox-14SD) leads to state-of-the-art results in bird species classification.
