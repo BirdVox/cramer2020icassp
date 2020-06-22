@@ -6,6 +6,8 @@ This repository contains the code used for the experiments in our paper:
 J. Cramer, V. Lostanlen, A. Farnsworth, J. Salamon, J.P. Bello  
 In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
+You can watch our ICASSP 2020 presentation [here](https://youtu.be/A16ObKJ6lLY), or view the slides [here](icassp2020-slides.pdf).
+
 #### Abstract
 Class imbalance in the training data hinders the generalization ability of machine listening systems.
 In the context of bioacoustics, this issue may be circumvented by aggregating species labels into super-groups of higher taxonomic rank: genus, family, order, and so forth.
