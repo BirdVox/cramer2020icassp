@@ -1,4 +1,4 @@
-# Chirping up the right tree: incorporating biological taxonomies into bioacoustic classifiers
+# Chirping up the right tree: incorporating biological taxonomies into deep bioacoustic classifiers
 
 This repository contains the code used for the experiments in our paper:
 
